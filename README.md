@@ -5,8 +5,9 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 - [React Libraries](#react-libraies)
 - [Auth Services](#auth-services)
 - [Search Engines](#search-engines)
-- [Graph Databases](#graph-databases)
+- [Databases](#databases)
 - [Queues](#queues)
+- [Analytics](#analytics)
 
 ## React Libraries
 
@@ -23,9 +24,13 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 - [Meilisearch](https://www.meilisearch.com/) A lightning-fast and hyper-relevant search engine that fits effortlessly into your workflow.
 - [Bonsai](https://bonsai.io/) Elasticsearch, OpenSearch, and SolrCloud managed service
 
-## Graph Databases
+## Databases
 
 - [Memgraph](https://memgraph.com/) Memgraph is a high performant graph database that is compatible with Neo4j while eliminating Neo4j complexity.
+- [MindsDB](https://github.com/mindsdb/mindsdb) MindsDB connects AI models to real time data
 
 ## Queues
 - [Upstash](https://upstash.com/) Serverless Data Platform
+
+## Analytics
+- [Posthog](https://github.com/PostHog/posthog) PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
