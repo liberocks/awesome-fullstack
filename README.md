@@ -8,6 +8,7 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 - [Databases](#databases)
 - [Queues](#queues)
 - [Analytics](#analytics)
+- [Miscellaneous](#miscellaneous)
 
 ## React Libraries
 
@@ -34,3 +35,6 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 
 ## Analytics
 - [Posthog](https://github.com/PostHog/posthog) PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
+
+## Miscellaneous
+- [Maxmind GeoIP](https://dev.maxmind.com/geoip) MaxMind’s GeoIP2 and GeoLite2 IP intelligence products and services are used to discover information about a specific IP address.
