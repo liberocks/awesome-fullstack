@@ -8,6 +8,7 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 - [Databases](#databases)
 - [Queues](#queues)
 - [Analytics](#analytics)
+- [Data Science and Engineering](#data-science-and-engineering)
 - [Miscellaneous](#miscellaneous)
 
 ## React Libraries
@@ -35,6 +36,9 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 
 ## Analytics
 - [Posthog](https://github.com/PostHog/posthog) PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
+
+## Data Science and Engineering
+- [Windmill](https://github.com/windmill-labs/windmill) Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 
 ## Miscellaneous
 - [Maxmind GeoIP](https://dev.maxmind.com/geoip) MaxMind’s GeoIP2 and GeoLite2 IP intelligence products and services are used to discover information about a specific IP address.
