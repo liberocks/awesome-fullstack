@@ -40,5 +40,8 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 ## Data Science and Engineering
 - [Windmill](https://github.com/windmill-labs/windmill) Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
 
+## Notification System
+- [Knock](https://knock.app/) Knock is flexible, reliable notifications infrastructure that's built to scale with you.
+
 ## Miscellaneous
 - [Maxmind GeoIP](https://dev.maxmind.com/geoip) MaxMind’s GeoIP2 and GeoLite2 IP intelligence products and services are used to discover information about a specific IP address.
