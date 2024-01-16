@@ -7,7 +7,7 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 - [Search Engines](#search-engines)
 - [Databases](#databases)
 - [Queues](#queues)
-- [Analytics](#analytics)
+- [Analytics](#analytics-and-monitoring)
 - [Data Science and Engineering](#data-science-and-engineering)
 - [Notification System](#notification-system)
 - [UI/UX](#uiux)
@@ -36,12 +36,20 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 - [Turso](https://turso.tech/) Countless database Embedded anywhere Simple.
 - [Neon](https://neon.tech/) Serverless Postgres
 - [PlanetScale](https://planetscale.com/) PlanetScale is the world’s most advanced MySQL platform
+- [Hydra](https://www.hydra.so/) Postgres for Analytics
+- [Dragonfly](https://www.dragonflydb.io/) Modern Redis Alternative
+- [MongoDB](https://www.mongodb.com/) You know what MongoDB is 😬
+
+## Network and Security
+- [Cloudflare](https://www.cloudflare.com/) You know what Cloudflare is 😬
 
 ## Queues
 - [Upstash](https://upstash.com/) Serverless Data Platform
 
-## Analytics
+## Analytics and Monitoring
 - [Posthog](https://github.com/PostHog/posthog) PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
+- [Mixpanel](https://mixpanel.com/) Simple and powerful product analytics that helps everyone make better decisions
+- [OpenStatus](https://www.openstatus.dev/) A better way to monitor your services
 
 ## Data Science and Engineering
 - [Windmill](https://github.com/windmill-labs/windmill) Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
@@ -51,6 +59,7 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 
 ## UI/UX
 - [Overflow Design](https://www.overflow.design/index.html) Notion illustrations & icons
+- [Lucide](https://lucide.dev/) Lucide is an open-source icon library that provides 1000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects
 
 ## Cloud Provider
 - [Fly.io](https://fly.io) Running full stack apps and databases close to your users
