@@ -11,6 +11,7 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 - [Data Science and Engineering](#data-science-and-engineering)
 - [Notification System](#notification-system)
 - [UI/UX](#uiux)
+- [Cloud Provider](#cloud-provider)
 - [Miscellaneous](#miscellaneous)
 
 ## React Libraries
@@ -32,6 +33,9 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 
 - [Memgraph](https://memgraph.com/) Memgraph is a high performant graph database that is compatible with Neo4j while eliminating Neo4j complexity.
 - [MindsDB](https://github.com/mindsdb/mindsdb) MindsDB connects AI models to real time data
+- [Turso](https://turso.tech/) Countless database Embedded anywhere Simple.
+- [Neon](https://neon.tech/) Serverless Postgres
+- [PlanetScale](https://planetscale.com/) PlanetScale is the world’s most advanced MySQL platform
 
 ## Queues
 - [Upstash](https://upstash.com/) Serverless Data Platform
@@ -47,6 +51,10 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 
 ## UI/UX
 - [Overflow Design](https://www.overflow.design/index.html) Notion illustrations & icons
+
+## Cloud Provider
+- [Fly.io](https://fly.io) Running full stack apps and databases close to your users
+- [Salad](https://salad.com/) The most affordable cloud for AI/ML inference at Scale
 
 ## Miscellaneous
 - [Maxmind GeoIP](https://dev.maxmind.com/geoip) MaxMind’s GeoIP2 and GeoLite2 IP intelligence products and services are used to discover information about a specific IP address.
