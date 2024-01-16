@@ -10,7 +10,7 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 - [Analytics](#analytics)
 - [Data Science and Engineering](#data-science-and-engineering)
 - [Notification System](#notification-system)
-- [UI/UX](#ui-ux)
+- [UI/UX](#uiux)
 - [Miscellaneous](#miscellaneous)
 
 ## React Libraries
