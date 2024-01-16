@@ -60,6 +60,10 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 ## UI/UX
 - [Overflow Design](https://www.overflow.design/index.html) Notion illustrations & icons
 - [Lucide](https://lucide.dev/) Lucide is an open-source icon library that provides 1000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects
+- [MagicUI](https://magicui.design/) Magic UI is a curated collection of React + Tailwind CSS + Framer Motion components
+- [ShadcnUI](https://ui.shadcn.com/) Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [DaisyUI](https://daisyui.com/) daisyUI adds component class names to Tailwind CSS so you can make beautiful websites faster than ever.
+- [UntitledUI](https://www.untitledui.com/) The ultimate UI kit and design system for Figma
 
 ## Cloud Provider
 - [Fly.io](https://fly.io) Running full stack apps and databases close to your users
