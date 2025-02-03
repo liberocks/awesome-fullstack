@@ -10,6 +10,7 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 - [Analytics](#analytics-and-monitoring)
 - [Data Science and Engineering](#data-science-and-engineering)
 - [Notification System](#notification-system)
+- [Mailing](#mailing)
 - [UI/UX](#uiux)
 - [Cloud Provider](#cloud-provider)
 - [Miscellaneous](#miscellaneous)
@@ -28,6 +29,7 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 
 - [Meilisearch](https://www.meilisearch.com/) A lightning-fast and hyper-relevant search engine that fits effortlessly into your workflow.
 - [Bonsai](https://bonsai.io/) Elasticsearch, OpenSearch, and SolrCloud managed service
+- [Typesense](https://typesense.org/) Typesense Typesense is an open source, typo tolerant search engine that is optimized for instant sub-50ms searches, while providing an intuitive developer experience.
 
 ## Databases
 
@@ -56,6 +58,9 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 
 ## Notification System
 - [Knock](https://knock.app/) Knock is flexible, reliable notifications infrastructure that's built to scale with you.
+
+## Mailing
+- [Plunk](https://www.useplunk.com/) Plunk is the open-source, affordable email platform that brings together marketing, transactional and broadcast emails into one single, complete solution
 
 ## UI/UX
 - [Overflow Design](https://www.overflow.design/index.html) Notion illustrations & icons
