@@ -47,7 +47,7 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 - [Cloudflare](https://www.cloudflare.com/) You know what Cloudflare is 😬
 
 ## Document
-- [DOcumenso](https://documenso.com/) The open source DocuSign alternative
+- [Documenso](https://documenso.com/) The open source DocuSign alternative
 
 ## Queues
 - [Upstash](https://upstash.com/) Serverless Data Platform
