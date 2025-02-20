@@ -13,6 +13,7 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 - [Notification System](#notification-system)
 - [Mailing](#mailing)
 - [UI/UX](#uiux)
+- [Internationalization](#internationalization)
 - [Cloud Provider](#cloud-provider)
 - [Miscellaneous](#miscellaneous)
 
@@ -73,6 +74,9 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 - [ShadcnUI](https://ui.shadcn.com/) Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [DaisyUI](https://daisyui.com/) daisyUI adds component class names to Tailwind CSS so you can make beautiful websites faster than ever.
 - [UntitledUI](https://www.untitledui.com/) The ultimate UI kit and design system for Figma
+
+## Internationalization
+- [Lingo](https://lingo.dev/) Automated AI localization for web & mobile apps
 
 ## Cloud Provider
 - [Fly.io](https://fly.io) Running full stack apps and databases close to your users
