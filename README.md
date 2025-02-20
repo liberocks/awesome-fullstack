@@ -8,6 +8,7 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 - [Databases](#databases)
 - [Queues](#queues)
 - [Document](#document)
+- [Rust Tooling](#rust-tooling)
 - [Analytics](#analytics-and-monitoring)
 - [Data Science and Engineering](#data-science-and-engineering)
 - [Notification System](#notification-system)
@@ -49,6 +50,9 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 
 ## Document
 - [Documenso](https://documenso.com/) The open source DocuSign alternative
+
+## Rust Tooling
+- [RustOwl](https://github.com/cordx56/rustowl) Visualize ownership and lifetimes in Rust for debugging and optimization
 
 ## Queues
 - [Upstash](https://upstash.com/) Serverless Data Platform
