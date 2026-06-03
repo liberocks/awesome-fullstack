@@ -40,7 +40,7 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 - [Memgraph](https://memgraph.com/) Memgraph is a high performant graph database that is compatible with Neo4j while eliminating Neo4j complexity.
 - [MindsDB](https://github.com/mindsdb/mindsdb) MindsDB connects AI models to real time data
 - [Turso](https://turso.tech/) Countless database Embedded anywhere Simple.
-- [Neon](https://neon.tech/) Serverless Postgres
+- [Neon](https://neon.com/) Serverless Postgres
 - [PlanetScale](https://planetscale.com/) PlanetScale is the world’s most advanced MySQL platform
 - [Hydra](https://www.hydra.so/) Postgres for Analytics
 - [Dragonfly](https://www.dragonflydb.io/) Modern Redis Alternative
