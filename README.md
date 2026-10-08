@@ -41,6 +41,7 @@ An awesome list that curates the best fullstack-development libraries, tools, tu
 - [MindsDB](https://github.com/mindsdb/mindsdb) MindsDB connects AI models to real time data
 - [Turso](https://turso.tech/) Countless database Embedded anywhere Simple.
 - [Neon](https://neon.com/) Serverless Postgres
+- [Prisma Postgres](https://www.prisma.io/postgres) Managed Postgres with zero cold starts
 - [PlanetScale](https://planetscale.com/) PlanetScale is the world’s most advanced MySQL platform
 - [Hydra](https://www.hydra.so/) Postgres for Analytics
 - [Dragonfly](https://www.dragonflydb.io/) Modern Redis Alternative
